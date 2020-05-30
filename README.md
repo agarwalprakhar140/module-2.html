@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <link href="style.css" rel="stylesheet">
     <meta charset="utf-8">
     <meta name="viewport" content="width=devive-width,initial-scale=1">
-    <title>Our Menu</title>
    </head>
   <body>
     <h1 class="main">Our Menu</h1>
