@@ -4,32 +4,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=devive-width,initial-scale=1">
     <title>Our Menu</title>
-    <style>
-      *{
-  box-sizing: border-box;
-  
-}
-
-.main{
-  font-family: Arial;
-  font-size: 250%;
-  text-align: center;
-
-}
-
-.box{
-  width: 33.33%;
-  float: left;
-  margin: auto;
-  border: 1px solid;
-  margin: 2px;
-}
-
-p{
-  font-family: sans-serif;
-  padding: 5px;
-}
-</style>
    </head>
   <body>
     <h1 class="main">Our Menu</h1>
